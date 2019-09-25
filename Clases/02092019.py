@@ -1,8 +1,248 @@
 Lugares
 verbos
+diferencia entre chi y zài --> Ambos se refieren al verbo ser/estar
 
-diferencia entre chi y zài
+class formalidades():
+	de nada
+	bù kè qì
+	不客气
 
+	Gracias
+	xiè xiè
+	谢谢
+
+	Por favor:
+	qǐng
+	请
+
+	Lo siento
+	duì bù qǐ
+	对不起 ---> Como aparece en el traductor
+	对比起 ---> Como lo anoté en clase
+
+class pronombres():
+	yo
+	wǒ
+	我
+
+	tú
+	nǐ
+	你
+
+	él
+	tā
+	他
+
+	ella
+	tā
+	她
+
+	ellas
+	tā men
+	她们
+
+	ellos
+	tā men
+	他们
+
+	vosotros
+	nǐ men
+	你们
+
+	nosotros
+	wǒ men
+	我们
+
+
+class profesiones():
+	Profe
+	lǎo shī
+	老师
+
+class idiomas():
+
+
+class la hora():
+	Ahora
+	xiàn zài
+	现在
+
+	Qué hora es?
+	jǐ diǎn
+	几点
+	/ahora qué hora es?/
+	xiàn zài shì jǐ diǎn?
+	现在是几点
+
+	La hora es...
+	xiàn zài shí...
+	现在是。。。
+
+	hora
+	diǎn
+	点
+
+	minuto
+	fēn
+	分
+
+	y media
+	bàn
+	半
+
+	y cuarto
+	yí kè
+	一刻
+
+	falta
+	chà
+	差
+
+	1:45
+	/la una y cuarenta y cinco/
+	yī diǎn sì shí wǔ fēn
+	一点四十五分
+	/la una y tres cuartos/
+	yī diǎn sān kè
+	一点三刻
+	/falta un cuarto para las 2/
+	liǎng diǎn chà yī kè
+	两点差一刻
+
+	las ocho y media
+	8 diǎn bàn
+	8 点 半
+	ó se puede:
+	8 点 30 fēn
+
+	las ocho y cuarto
+	8 diǎn yī kè
+	8 点 一刻
+	8 点 1 刻
+
+	Faltan cinco para las nueve
+	chà 5 fēn 9 diǎn
+	差 5 分 9 点
+
+
+class lugares():
+
+
+class adjetivos():
+	Bonita
+	piào liang
+	漂亮
+
+	Handsome boy
+	shuài
+	帅
+
+	ocupado
+	máng
+	忙
+
+	pequeño
+	xiǎo
+	小
+
+class verbos():
+	Verbo Saber
+	zhi dao
+	知道
+
+	Hay (de tener)
+	yǒu
+	有 ----> Aparce diferente al prof, pero aparece igual que en la app para el verbo 'tener'
+
+	ver
+	kan
+	看
+
+	No tener
+	me yǒu
+	么有
+
+	Trabajar
+	shàng bān
+	上班
+
+	Comer
+	chī
+	吃
+
+	tomar
+	hē
+	喝
+
+	poder
+	nang
+	能
+
+	gustar
+	xǐ huān
+	喜欢
+
+class measure words():
+	tiáo
+	条
+	Para cosas largas, (como las piernas)
+
+	zhī
+	只
+	Para animales
+
+class animales():
+	pingüino
+	Qǐé
+	企鹅
+
+	Gorila
+	xīng xīng
+	猩猩
+
+	cachorro
+	xiǎo gǒu
+	小狗
+
+	gatito
+	xiǎo māo
+	小猫
+
+	gato
+	māo
+	猫
+
+	perro
+	gǒu
+	狗
+
+	hormiga
+	mǎ yǐ
+	蚂蚁
+
+	mariposa
+	hú dié
+	蝴蝶
+
+	Pulpo
+	zhāng yú
+	章鱼
+
+	araña
+	zhī zhū
+	蜘蛛
+
+	cangrejo
+	páng xiè
+	螃蟹
+
+	langosta
+	lóng xiā
+	龙虾
+
+	Animales
+	dòng wù
+	动物
 
 class Pronunciación del Chino mandarín vocales(a, o, e, i, u, ü):
     def __init__():
@@ -48,15 +288,16 @@ class pronunciación del chino mandarín consonantes():
     f - l - m - n
 
     def Diferentes():
+    	(Las que se suponen que deberían sonar fuertes, suenan en realidad débil: 't', 'k', 'p')
         b --> 'p'
-        p --> 'p' inglesa, (Ej: peace)
+        *p --> 'p' inglesa, (Ej: peace)
         d --> 't'
-        t --> 't' inglesa, (Ej: tea)
+        *t --> 't' inglesa, (Ej: tea)
         g --> 'k'
-        k --> 'k' inglesa, (Ej: kind, no noto la diff)
+        *k --> 'k' inglesa, (Ej: kind, no noto la diff)
         h --> 'j' (Ej: jarra)
-        z --> /dz/ (Ej: red zone)
-        c --> /ts/ (Ej: pizza)
+        z --> /dz/ (Ej: red zone)   |
+        c --> /ts/ (Ej: pizza)		|---> Ambas pronunciaciones se parecen al alemán 'z' Ejm: Zeit
         s --> 's'
         zi --> /dz/
         ci --> /ts/
@@ -66,9 +307,8 @@ class pronunciación del chino mandarín consonantes():
 
         j --> /ll/ (Ej: jeans)
         q --> /ch/ (Ej: chino)
-        x --> /sh/ (Ej: she) un poco más suave que 'q', la punta de la lengua la pongo en el paladar
-
-        ju --> /d3ü/
+        x --> /sh/ (Ej: she) un poco más suave que 'q', la punta de la lengua la pongo en el paladar, **En la app se pronuncia como una 's' combinada con una 'ch'
+	    ju --> /d3ü/
         qu --> /chü/
         xu --> /shü/
 
@@ -96,6 +336,10 @@ class palabras difíciles o complejas():
     zuǐ
     嘴
 
+    cangrejo
+	páng xiè
+	螃蟹
+
 class días de la semana():
     Lunes
     xīng qī yī
@@ -122,10 +366,14 @@ class días de la semana():
     星期六
 
     Domingo
-    xīng qī rì
-    星期日
+    xīng qī tiān
+    星期天
 
 class números del 1 al 10():
+	Cero
+	líng
+	零
+
     Uno
     yī
     一
@@ -168,9 +416,119 @@ class números del 1 al 10():
     十
 
 class palabras parecidas en escritura():
+
+	** Con las siguientes 2 palabras compruebo que a pesar de tener el mismo pīnyīng, se escriben diferente
+	de nada
+	bù kè qì
+	不客气
+
+    bus
+    qì chē
+    汽车
+
+	Partícula "Y"
+    hé
+    和
+
+    taxi
+    chū zū chē
+    出租车
+
+    hombro
+    jiān bǎng
+    肩膀
+
+	Mierda
+	shǐ
+	屎
+
+	Casa ---> Sin verificar
+	fàng zi
+	房子
+
+	Hay (de tener)
+	yǒu
+	有 ----> Aparce diferente al prof, pero aparece igual que en la app para el verbo 'tener'
+
+	ver
+	kan
+	看
+
+	Sí o verbo ser
+    shì
+    是
+
+    Fútbol
+    zú qiú
+    足球
+
+    Natación
+    yóu yǒng
+    游泳
+
+	Agua
+	shuǐ
+	水
+
+    Partícula "muy"
+    hěn
+    很
+
+    ojos
+    yǎn jīng
+    眼睛
+
+	patear
+	tī
+	踢
+
+	Animales
+	dòng wù
+	动物
+
+	Aeropuerto
+	fēi jī chǎng
+	飞机场
+
+    Domingo
+    xīng qī tiān
+    星期天
+
+    hermana menor
+    mèi mei
+    妹妹
+
+	pera
+	Lí
+	梨
+
+	mariposa
+	hú dié
+	蝴蝶
+
+	araña
+	zhī zhū
+	蜘蛛
+
+	hermano mayor
+    gēgē
+    哥哥
+
+	Colombia
+	gē lún bǐ yǎ
+	哥伦比亚
+
     tú/usted
     nǐ
     你
+
+	Bonita
+	piào liang
+	漂亮
+
+	pequeño
+	xiǎo
+	小
 
     Hola
     nǐ hǎo
@@ -203,6 +561,28 @@ class palabras parecidas en escritura():
     mamá
     māmā
     妈妈
+
+	Profe
+	lǎo shī
+	老师
+
+	Handsome boy
+	shuài
+	帅
+
+	No tener
+	me yǒu
+	么有
+
+	Partícula "qué"
+    shen me
+    什么
+
+    Partícula dónde
+    nǎ
+    哪
+	    
+
 class familiares():
     mamá
     māmā
@@ -236,6 +616,9 @@ class palabras importantes():
 	comer
 	chī
 	吃
+	En el video de la Youtuber aparece como:
+	chī fàn
+	吃饭
 
 	comida
 	cài
@@ -348,21 +731,32 @@ class partes del cuerpo():
     zuǐ
     嘴
 
+    Nariz
+    bí zǐ
+    鼻子
+
+    patas
+    tuǐ
+    腿
 
 class deportes con bola():
-	patear
+	jugar  (con la mano) --> Aparecen 2 piernas -_-
+	da
+	打
+
+	Jugar/ patear (con el pie) --> Aparece 1 mano -_-
 	tī
 	踢
 
-    Fútbol
+    Fútbol --> Aparece un man
     zú qiú
     足球
 
-    Baloncesto
+    Baloncesto --> Aparecen 2 tipos jugando baloncesto
     lán qiú
     篮球
 
-    Tenis
+    Tenis --> Aparece la malla
     wǎng qiú
     网球
 
@@ -386,7 +780,7 @@ class deportes con bola():
     gǎn lǎn qiú
     橄榄球
 
-    Voleibol
+    Voleibol --> Aparece el poste de la malla
     pái qiú
     排球
 
@@ -441,26 +835,13 @@ el ella
 tā tā
 他  她
 
-Profe
-lǎo shī
-老师
-
 Mierda
 shǐ
 屎
 
-Gracias
-xiè xiè
-谢谢
-
 libro
 shū
 书
-
-Lo siento
-duì bù qǐ
-对不起 ---> Como aparece en el traductor
-对比起 ---> Como lo anoté en clase
 
 yo te amo mucho
 \yo muy amar tú\
@@ -484,22 +865,6 @@ Yo te amo también
 wǒ yě aì nǐ
 我也爱你
 
-ellas
-tā men
-她们
-
-ellos
-tā men
-他们
-
-vosotros
-nǐ men
-你们
-
-nosotros
-wǒ men
-我们
-
 Colombia
 gē lún bǐ yǎ
 哥伦比亚
@@ -521,7 +886,6 @@ wǒ de māmā yě shì gē lún bǐ yǎ rén
 我的妈妈也是哥伦比亚人
 
 **********************************************************************
-
 Feliz
 kuài lè
 快乐
@@ -531,16 +895,15 @@ Jīn tiān wǒ hěn kuài lè
 今天我很快乐
 
 Feliz cumpleaños te deseo a tí
-zhù nǐ shēng rì kuài lè
+/te deseo cumpleaños feliz/
+zhù nǐ shēng rì kuài lè --> En clase y en una imágen de Google
 祝你生日快乐
+En el video aparece así:
+祝你生日快樂
 
 agua
 shuǐ
 水
-
-gustar
-xǐ huān
-喜欢
 
 Te invito a comer comida china
 Wǒ qǐng nǐ chī zhōngguó cài
@@ -549,10 +912,6 @@ Wǒ qǐng nǐ chī zhōngguó cài
 Me invitas a tomar café colombiano.
 Nǐ qǐng wǒ hē gēlúnbǐyǎ kāfēi
 你请我喝哥伦比亚咖啡
-
-poder
-nang
-能
 
 Yo no puedo
 wǒ bu neng
@@ -585,21 +944,13 @@ Por favor siéntese:
 qǐng zuò
 请坐
 
-comer
-chi
-吃
-
-tomar
-hē
-喝
-
 Yo te invito a tí
 wǒ yao qing ni
 我邀请你
 
 
 Yo te invito a comer comida china
-wǒ yao qing ni chi zhong guo cai
+wǒ yao qing ni chī zhong guo cai
 我邀请你吃中国菜
 
 no
@@ -619,7 +970,6 @@ shuō hua
 Yo hablo  --> Dudas
 wǒ shuo hua
 我说话
-
 
 Yo tengo
 wǒ io
@@ -732,39 +1082,36 @@ Yo quiero vivir en china
 Wo xiang zhu zhong guo
 我想住中国
 
-pelicula
-dian ying
+película
+diàn yǐng
 电影
 
-ver
-kan
-看
+App* televisión como:
+diàn shì
+电视
+
 
 Me gusta ver la película en chino
 wǒ xihuan kan dian ying
 我喜欢看电影
 
-jugar  (Para los deportes con la mano)
-da
-打
-
 Jugar baloncesto
-da lan qui
-打蓝驱
+da lán qiú
+打蓝球
 
 jugar Voleibol
-da pai qiu
+da pai qiú
 打排球
 
 Jugar tenis
-da wang qiu
+da wang qiú
 打网球
 
 Jugar ping pong
 da ping pong qiu
 打乒乓球
 
-Jugar ---> Con la pierna
+Jugar fútbol
 ti zu qiu
 踢足球
 
@@ -811,17 +1158,7 @@ haniu
 
 cctv.com
 
-Bonita
-piao liang
-漂亮
 
-Handsome boy
-shuai
-帅
-
-ocupado
-mang
-忙
 
 Yo estoy muy ocupado
 wǒ hěn máng
@@ -924,10 +1261,6 @@ De qué país es Felipe?
 Felipe shi nǎ guo ren?
 Felipe 是哪国人
 
-Verbo Saber
-zhi dao
-知道
-
 Tú sabes?
 ni zhi dao ma?
 你知道吗?
@@ -1014,9 +1347,6 @@ class comidas():
     wǎn cān
     晚餐
 
-Hay (de tener)
-yǒu
-有 ----> Aparce diferente al prof
 
 
 No hay
@@ -1074,7 +1404,7 @@ class temporalidades_3():
     前天
 
     Ayer
-    zuō tiān
+    zuó tiān
     昨天
 
     hoy
@@ -1354,34 +1684,6 @@ Amigo ----> creo
 péng you
 朋友
 
-Ahora
-xiàn zài
-现在
-
-Qué hora es?
-/ahora qué hora?/
-xiàn zài jǐ diǎn?
-现在几点
-
-minuto
-fēn
-分
-
-las ocho y media
-8 diǎn bàn
-8 点 半
-ó se puede:
-8 点 30 fēn
-
-las ocho y cuarto
-8 diǎn kè
-8 点 1 刻
-
-Faltan cinco para las nueve
-chà 5 fēn 9 diǎn
-差 5 分 9 点
-
-
 Yo estudio chino en Colombia
 wǒ sai de guo shueshi 
 
@@ -1582,5 +1884,24 @@ wǒ qǐng nǐ
 4)...
 5)...
 6)
+
+
+Yo trabajo a las 8:30
+wǒ bā diǎn bàn shàng bān
+我八点半上班
+
+A qué horas trabajas?
+nǐ jǐ diǎn shàng bān?
+你几点上班
+
+A qué horas comemos?
+wǒ men jǐ diǎn chī fàn?
+我们几点吃饭
+
+Nosotros comemos a las 12:10
+wǒ men shí èr diǎn shí fēn chī fàn
+我们十二点十分吃饭
+
+
 
 
