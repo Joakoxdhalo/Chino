@@ -1,6 +1,57 @@
 Lugares
 verbos
-diferencia entre chi y zài --> Ambos se refieren al verbo ser/estar
+diferencia entre shì y zài --> Ambos se refieren al verbo ser/estar
+
+class pinying igual pero símbolo diferente():
+	araña
+	zhī zhū
+	蜘蛛
+
+	Verbo Saber
+	zhī dào
+	知道
+
+	measure word para animales
+	zhī
+	只
+
+class países():
+	francia
+	fà guó
+	法国
+
+	inglaterra
+	yīng guó
+	英国
+
+	alemania
+	dé guó
+	德国
+
+	Estados unidos
+	měi guó
+	美国
+
+	Rusia
+	é guó
+	俄国
+
+class sustantivos():
+	dinero
+	qián
+	钱
+
+	Mierda
+	shǐ
+	屎
+
+	libro
+	shū
+	书
+
+	baño
+	cè suǒ
+	厕所
 
 class formalidades():
 	de nada
@@ -53,6 +104,21 @@ class pronombres():
 	wǒ men
 	我们
 
+	Quién
+	shéi
+	谁
+
+	Hombre
+	nán
+	男
+
+	Mujer / Hembra
+	nǔ
+	女
+
+	Novia
+	xīnniáng
+	新娘 --> Sin comprobar Gtraductor
 
 class profesiones():
 	Profe
@@ -146,8 +212,16 @@ class adjetivos():
 	小
 
 class verbos():
+	hablar ---> Gtraductor; El profesor sólo pronuncia el shuō
+	shuō huà
+	说话
+
+	Invitar
+	yāo qǐng
+	邀请
+
 	Verbo Saber
-	zhi dao
+	zhī dào
 	知道
 
 	Hay (de tener)
@@ -159,8 +233,8 @@ class verbos():
 	看
 
 	No tener
-	me yǒu
-	么有
+	méi yǒu
+	没有
 
 	Trabajar
 	shàng bān
@@ -170,17 +244,25 @@ class verbos():
 	chī
 	吃
 
-	tomar
+	tomar/beber
 	hē
 	喝
 
 	poder
-	nang
+	néng
 	能
 
 	gustar
 	xǐ huān
 	喜欢
+
+	manejar
+	kēichē
+	开车
+
+	sentarse/tomar (El tren, el avión)
+	zuò
+	坐
 
 class measure words():
 	tiáo
@@ -416,6 +498,13 @@ class números del 1 al 10():
     十
 
 class palabras parecidas en escritura():
+	Yo
+	wǒ
+	我
+
+	Rusia
+	é guó
+	俄国
 
 	** Con las siguientes 2 palabras compruebo que a pesar de tener el mismo pīnyīng, se escriben diferente
 	de nada
@@ -429,6 +518,10 @@ class palabras parecidas en escritura():
 	Partícula "Y"
     hé
     和
+
+	Verbo Saber
+	zhī dào
+	知道
 
     taxi
     chū zū chē
@@ -501,6 +594,10 @@ class palabras parecidas en escritura():
 	pera
 	Lí
 	梨
+
+	baño
+	cè suǒ
+	厕所
 
 	mariposa
 	hú dié
@@ -625,6 +722,14 @@ class palabras importantes():
 	菜
 
 class partículas():
+	no
+	bù
+	不
+
+    Sí o verbo ser
+    shì
+    是
+
     Partícula de pertenencia
     de
     的
@@ -656,10 +761,6 @@ class partículas():
     Partícula "muy": antes del verbo o adjetivo
     hěn
     很
-
-    Sí o verbo ser
-    shì
-    是
 
 class medios de transporte():
     avión
@@ -835,14 +936,6 @@ el ella
 tā tā
 他  她
 
-Mierda
-shǐ
-屎
-
-libro
-shū
-书
-
 yo te amo mucho
 \yo muy amar tú\
 wǒ hěn ài nǐ
@@ -914,86 +1007,65 @@ Nǐ qǐng wǒ hē gēlúnbǐyǎ kāfēi
 你请我喝哥伦比亚咖啡
 
 Yo no puedo
-wǒ bu neng
+wǒ bu néng
 我不能
 
 Tu puedes manejar?
-ni neng keiche ma?
+nǐ néng kēichē ma?
 你能开车吗？
 
 Tú no sabes quién soy yo
 \Tu no sabes yo soy quién?\
-ni bu zhidao wǒ shi shei?
+nǐ bu zhīdào wǒ shi shéi?
 你不知道我是谁？
 
 Ella es mi amiga?
-ta shi wǒ de pengyou
+tā shì wǒ de péngyou
 她是我的朋友
 
-Hombre
-nán
-男
-
-Mujer / Hembra
-nǔ
-女
-
-Novia
-
-Por favor siéntese:
+Por favor siéntese
 qǐng zuò
 请坐
 
 Yo te invito a tí
-wǒ yao qing ni
+wǒ yāo qǐng ni
 我邀请你
 
-
 Yo te invito a comer comida china
-wǒ yao qing ni chī zhong guo cai
+wǒ yāo qǐng nǐ chī zhōng guó cài
 我邀请你吃中国菜
 
-no
-bu
-不
-
-Los colombianos no comen comida de perro
+Los colombianos no comen comida de perro --> No comprobada
+gē lún bǐ yǎ rén bù chī gǒu cài
+哥伦比亚人不吃狗菜
 
 Profe de alemán
-de guo lǎo shī
+dé guó lǎo shī
 德国老师
 
-hablar ---> El profesor sólo pronuncia el shuo
-shuō hua
-说话
-
 Yo hablo  --> Dudas
-wǒ shuo hua
+wǒ shuō huà
 我说话
 
 Yo tengo
-wǒ io
+wǒ yǒu
 我有
 
 Yo no tengo
+wǒ méi yǒu
 我没有
 
-NUNCA SE DICE "BU" para decir "no hay" o "no tengo" SE DICE MEIYOU
-
-dinero
-qian
-钱
+NUNCA SE DICE "BU" para decir "no hay" o "no tengo", SE DICE MéIYǒU
 
 No tengo dinero
-wǒ meiyou qian
+wǒ méiyǒu qián
 我没有钱
 
-No tengo dinero
-wǒ meiyou shu
 No tengo libro
+wǒ méiyǒu shū
 
 Me gusta tomar avión
-wǒ xihuan zuo feiji
+wǒ xǐ huān zuò feī jī
 我喜欢坐飞机
 
 Tú eres Colombiano?
@@ -1001,45 +1073,12 @@ Nǐ shì gēlúnbǐyǎ rén ma?
 你是哥伦比亚人吗
 
 Ella es de china
-ta shi zhong guo
+tā shì zhōng guó
+他是中国
 
 Usted es de china?
-ni shi zhong guo ren ma?
+nǐ shì zhōng guó rén ma?
 你是中国人吗
-
-Yes
-shi
-是
-
-No
-bu
-不
-
-De nada
-
-Por favor
-
-Sentare
-
-francia
-fa guo
-法国
-
-inglaterra
-ying guo
-英国
-
-alemania
-de guo
-德国
-
-Estados unidos
-mei guo
-美国
-
-Rusia
-e guo
-俄国
 
 **************************************************
 
@@ -1206,38 +1245,12 @@ restaurante
 
 1____________________________________________________________________________________
 
-
-
-Por favor siéntese
-qing zuo
-请坐
-
-gracias
-xie xie
-谢谢
-
-por favor entrar
-qing jing
-
-Hermana mayor
-
-Hermana menor
-
-papa
-ba ba
-爸爸
-
-
-mama
-ma ma
-妈妈
-
-
+por favor entrar  --> Mirar
+qǐng jing
 
 Colombia
 ge lun bi ya
 哥伦比亚
-
 
 Yo soy Colombiano
 wǒ shi ge lun bi ya ren
@@ -1902,6 +1915,6 @@ Nosotros comemos a las 12:10
 wǒ men shí èr diǎn shí fēn chī fàn
 我们十二点十分吃饭
 
-
+1064
 
 
