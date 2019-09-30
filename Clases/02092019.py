@@ -1,6 +1,16 @@
 Lugares
 verbos
 diferencia entre shì y zài --> Ambos se refieren al verbo ser/estar
+是 在
+
+class palabras memes():
+    Idea
+    想法
+
+    Tengo una idea atrevida
+    Wǒ yǒu gè dàdǎn de xiǎngfǎ
+    我有个大胆的想法
+
 
 class pinying igual pero símbolo diferente():
 	araña
@@ -36,7 +46,35 @@ class países():
 	é guó
 	俄国
 
+	Colombia
+	gē lún bǐ yǎ
+	哥伦比亚
+
+	España
+	xī bān yán
+	西班牙
+
+	china
+	zhōng guó
+	中国
+
 class sustantivos():
+    película
+    diàn yǐng
+    电影
+
+    App* televisión como:
+    diàn shì
+    电视
+
+    tarea
+    zuo yè
+    作业
+
+    agua
+    shuǐ
+    水
+
 	dinero
 	qián
 	钱
@@ -53,6 +91,10 @@ class sustantivos():
 	cè suǒ
 	厕所
 
+    Ropa
+    yī fú --> Suena como a la enfermedad del tipo, (la que tiene Mic)
+    衣服
+
 class formalidades():
 	de nada
 	bù kè qì
@@ -62,7 +104,7 @@ class formalidades():
 	xiè xiè
 	谢谢
 
-	Por favor:
+	invitar o Por favor:
 	qǐng
 	请
 
@@ -125,8 +167,30 @@ class profesiones():
 	lǎo shī
 	老师
 
-class idiomas():
+class idiomas o lenguajes():
+	Idioma inglés
+	yīng yǔ
+	英语
 
+	Idioma francés
+	fǎ yǔ
+	法语
+
+	Idioma chino
+	hàn yǔ
+	汉语
+
+	Idioma español
+	xī bān yá yǔ
+	西班牙语
+
+	Idioma Alemán
+	dé yǔ
+	德语
+
+    Carácteres chinos
+    Hàn zì
+    汉字
 
 class la hora():
 	Ahora
@@ -190,11 +254,36 @@ class la hora():
 	chà 5 fēn 9 diǎn
 	差 5 分 9 点
 
-
 class lugares():
+	banco
+	yín háng
+	银行
 
+    restaurante
+    cān tīng
+	餐厅
+
+	tienda
+	shāng dìan
+	商店
+
+	Supermercado
+	chāo shì
+	超市
+
+    Universidad
+    dà xué
+    大学
 
 class adjetivos():
+    costoso
+    áng guì
+    昂贵
+
+    barato  ---> sin comprobar
+    lián jià
+    廉价
+
 	Bonita
 	piào liang
 	漂亮
@@ -210,15 +299,60 @@ class adjetivos():
 	pequeño
 	xiǎo
 	小
+    
+    difícil
+    nán
+    难
+
+    sencillo/Simple/fácil
+    Jiǎn dān
+    简单
 
 class verbos():
-	hablar ---> Gtraductor; El profesor sólo pronuncia el shuō
-	shuō huà
-	说话
+    desayunar
+    chī zǎo cān
+    吃早餐
 
-	Invitar
-	yāo qǐng
-	邀请
+    almorzar
+    chī wǔ cān
+    吃午餐
+
+    cenar
+    chī wǎn cān
+    吃晚餐
+
+    Estudiar
+    xuéxí
+    学习
+
+    viajar
+    lǚ you
+    旅游
+
+    Pensar, echar de menos.
+    xiǎng
+    想
+
+    vivir
+    zhù
+    住
+
+	llamarse
+	jiào
+	叫
+
+	hablar
+	shuō
+	说
+
+    Hacer
+    zuò
+    做
+
+    Invitar/por favor. En el traductor aparecía como [Yāoqǐng, (邀请)], y en varios ejemplos en la parte de abajo, también lo pongo como aparece en el traductor.
+    Aunque en otros también aparece sólo el "qǐng"
+	qǐng
+	请
 
 	Verbo Saber
 	zhī dào
@@ -232,7 +366,7 @@ class verbos():
 	kan
 	看
 
-	No tener
+	No tener/No hay
 	méi yǒu
 	没有
 
@@ -264,6 +398,18 @@ class verbos():
 	zuò
 	坐
 
+	ir
+	qù
+	去
+
+    levantarse
+    qǐ chuáng
+    起床
+
+    dormir
+    shuì jiào
+    睡觉
+
 class measure words():
 	tiáo
 	条
@@ -272,6 +418,10 @@ class measure words():
 	zhī
 	只
 	Para animales
+
+    gè
+    个
+    The most common measure word, (no se especifíca para que objeto va dirigido)
 
 class animales():
 	pingüino
@@ -498,9 +648,70 @@ class números del 1 al 10():
     十
 
 class palabras parecidas en escritura():
+
+en la tarde, carne de res
+    En la tarde
+    xià wǔ
+    下午
+
+    Baloncesto
+    lán qiú
+    篮球
+
+    sencillo/Simple/fácil
+    Jiǎn dān
+    简单
+
+    Universidad
+    dà xué
+    大学
+
+    hàn zì
+    汉字
+
+    Viajar
+    lǚ you
+    旅游
+
+    francia
+    fà guó
+    法国
+
+    ir
+    qù
+    去
+
+    gè
+    个
+    Measure word, la más usada
+
+    No
+    bù
+    不
+
+	restaurante
+	cān tīng
+	餐厅
+
+	banco
+	yín háng
+	银行
+
+	comida
+	cài
+	菜
+
+	té  ---> El té es simétrico, la comida no, el té da paz.
+	chá
+	茶
+
 	Yo
 	wǒ
 	我
+
+	dinero
+	qián
+	钱
 
 	Rusia
 	é guó
@@ -547,6 +758,10 @@ class palabras parecidas en escritura():
 	kan
 	看
 
+    Invitar/por favor
+    qǐng
+    请
+
 	Sí o verbo ser
     shì
     是
@@ -582,6 +797,10 @@ class palabras parecidas en escritura():
 	Aeropuerto
 	fēi jī chǎng
 	飞机场
+
+    comer
+    chī
+    吃
 
     Domingo
     xīng qī tiān
@@ -651,6 +870,14 @@ class palabras parecidas en escritura():
     aì
     爱
 
+    difícil
+    nán
+    难
+
+    de nada ** Incompleta la relación con otra palabra
+    bù kè qì
+    不客气
+
 	Partícula para pregunta cerrada: No significa nada
     ma
     吗
@@ -658,6 +885,10 @@ class palabras parecidas en escritura():
     mamá
     māmā
     妈妈
+
+	Carne de pollo
+    jī ròu
+    鸡肉
 
 	Profe
 	lǎo shī
@@ -667,18 +898,21 @@ class palabras parecidas en escritura():
 	shuài
 	帅
 
-	No tener
-	me yǒu
-	么有
-
-	Partícula "qué"
-    shen me
-    什么
+    Supermercado
+    chāo shì
+    超市
 
     Partícula dónde
     nǎ
     哪
-	    
+
+    tienda
+    shāng dìan
+    商店
+
+    vino
+    jiǔ
+    酒
 
 class familiares():
     mamá
@@ -761,6 +995,10 @@ class partículas():
     Partícula "muy": antes del verbo o adjetivo
     hěn
     很
+
+    partículas "desde" - "hasta"
+    cóng - dào
+    从 - 到
 
 class medios de transporte():
     avión
@@ -958,10 +1196,6 @@ Yo te amo también
 wǒ yě aì nǐ
 我也爱你
 
-Colombia
-gē lún bǐ yǎ
-哥伦比亚
-
 Colombiano
 gē lún bǐ yǎ rén
 哥伦比亚人
@@ -994,10 +1228,6 @@ zhù nǐ shēng rì kuài lè --> En clase y en una imágen de Google
 En el video aparece así:
 祝你生日快樂
 
-agua
-shuǐ
-水
-
 Te invito a comer comida china
 Wǒ qǐng nǐ chī zhōngguó cài
 我请你吃中国菜
@@ -1027,11 +1257,11 @@ Por favor siéntese
 qǐng zuò
 请坐
 
-Yo te invito a tí
+Yo te invito a tí  * Revisar por el yāo
 wǒ yāo qǐng ni
 我邀请你
 
-Yo te invito a comer comida china
+Yo te invito a comer comida china * Revisar por el yāo
 wǒ yāo qǐng nǐ chī zhōng guó cài
 我邀请你吃中国菜
 
@@ -1043,9 +1273,9 @@ Profe de alemán
 dé guó lǎo shī
 德国老师
 
-Yo hablo  --> Dudas
-wǒ shuō huà
-我说话
+Yo hablo
+wǒ shuō
+我说
 
 Yo tengo
 wǒ yǒu
@@ -1063,6 +1293,7 @@ wǒ méiyǒu qián
 
 No tengo libro
 wǒ méiyǒu shū
+我没有书
 
 Me gusta tomar avión
 wǒ xǐ huān zuò feī jī
@@ -1072,7 +1303,7 @@ Tú eres Colombiano?
 Nǐ shì gēlúnbǐyǎ rén ma?
 你是哥伦比亚人吗
 
-Ella es de china
+Ella es de china * creo que falta el rén
 tā shì zhōng guó
 他是中国
 
@@ -1087,48 +1318,33 @@ Zhung wǒ can guan zai nali
 /China restaurante donde/
 中国 餐厅 在哪？
 
-ir
-qu
-去
-
-Donde esta tu mama
-ni da mama sena
+Dónde está tu mamá
+Nǐ de māmā zài nǎ?
+你的妈妈在哪?
 
 A dónde vas?
-ni qu na?
+nǐ qù nǎ?
 你去哪?
 
 Dónde estás?
-ni zai na?
+nǐ zài nǎ?
 你在哪?
 
 Dónde vives tú?
-ni zhu na?
+nǐ zhù nǎ?
 你住哪
 
 Yo vivo en Bosa:
-Wo zhu Bosa
-握住 Bosa
-
-Pensar, echar de menos.
-xiang
-想
+Wǒ zhù Bosa
+我住 Bosa
 
 Yo te extraño
-Wo xiang ni
+Wǒ xiǎng nǐ
+我想你
 
 Yo quiero vivir en china
-Wo xiang zhu zhong guo
+Wǒ xiǎng zhù zhōng guó
 我想住中国
-
-película
-diàn yǐng
-电影
-
-App* televisión como:
-diàn shì
-电视
-
 
 Me gusta ver la película en chino
 wǒ xihuan kan dian ying
@@ -1162,17 +1378,12 @@ wǒ shi laoshi
 我是老师
 
 Universidad del rosario
-Rosario da que
+Rosario dà xué
 Rosario 大学
 
 Universidad Nacional
-guo li da xue
+guo li dà xué
 国立大学
-
-
-Estudiar
-xuexi
-学习
 
 Preposición 'en'
 zai
@@ -1207,15 +1418,7 @@ No estoy ocupado
 wǒ bu mang
 我不忙
 
-Ropa
-yī fú
-衣服
-
-costoso
-áng guì
-昂贵
-
-barato
+barato  ---> sin comprobar
 lián jià
 廉价
 
@@ -1233,15 +1436,6 @@ yī fú hěn lián jià zhōng guó, yī fú hěn áng guì gēlúnbǐyǎ.
 4)
 5)
 
-
-
-Lo de la hoja:
-Cerdo
-pollo
-pescado
-res
-
-restaurante
 
 1____________________________________________________________________________________
 
@@ -1286,10 +1480,6 @@ Mi mamá es colombiana
 
 Mi papá también es colombiano
 
-llamarse
-jiào
-叫
-
 cómo te llamas?
 /Tu llamas qué/
 nǐ jiào shén me?
@@ -1322,6 +1512,10 @@ zài jiàn
 Celular
 Shǒu jī
 手机
+
+Mano --> verificar
+shǒu
+手
 
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
@@ -1356,19 +1550,9 @@ class comidas():
     wǔ cān
     午餐
 
-    cena
+    cena --> Es es símbolo más complejo de los 3, y significa noche
     wǎn cān
     晚餐
-
-
-
-No hay
-méi yōu
-没有
-
-Hermana menor
-mèi mei
-妹妹
 
 Pasado mañana es viernes
 
@@ -1378,7 +1562,7 @@ class temporalidades():
     zǎo shang
     早上
 
-    En la mañana 8am 12pm
+    En la mañana 8am 12pm ----> Ojo que en realidad el wǔ es medio día
     shàng wǔ
     上午
 
@@ -1448,7 +1632,7 @@ class direcciones():
     右
 
 
-Extrañar/ echar de menos
+querer-- > cuando hablamos de comida/ Extrañar/ echar de menos
 xiǎng
 想
 
@@ -1543,11 +1727,6 @@ lǎoshī máng xiě
 老师忙写
 
 
-fácil.
-
-
-
-
 Segundo ejercicio organizar:
 
 1) Cómo se llama usted?
@@ -1613,20 +1792,19 @@ wǒ chī fà guó cài
 我吃法国菜
 
 class carnes():
-
-    Carne de res
+    Carne de res --> Una res flaca sin un cuerno
     niú ròu
     牛肉
 
-    Carne de Cerdo
+    Carne de Cerdo --> Es un cerdo muy grande, y a demás vuela, (/chūlò/)
     zhū ròu
     猪肉
 
-    Carne de pollo
+    Carne de pollo --> poLLIto, (/LLIròu/)
     jī ròu
     鸡肉
 
-    Carne de pescado
+    Carne de pescado ---> Se ven el abdómen del pescado
     yú ròu
     鱼肉
 
@@ -1657,10 +1835,6 @@ Dónde está el baño de caballeros?
 nán cè suǒ zài nǎ
 男厕所在哪
 
-banco
-yín háng
-银行
-
 Dónde está el banco de china?
 /China banco está dónde?/
 zhōng guó yín háng zài nǎ?
@@ -1673,20 +1847,8 @@ Dónde está el banco de Colombia?
 /Colombia banco está dónde?/
 gē lún bǐ yǎ yín háng zài nǎ?
 
-restaurante
-cān tīng
-餐厅
-
 Dónde está el restaurante francés?
 fa guó cān tīng zài nǎ?
-
-tienda
-shāng dìan
-商店
-
-Super - mercado
-chāo shì
-超市
 
 Dónde está el supermercado?
 chāo shì zài nǎ?
@@ -1706,7 +1868,7 @@ wo zai ge lun bi ya guo li da xue ...
 我在哥伦比亚国立大学。。。
 
     Universidad Nacional
-    guo li da xue
+    guo li dà xué
     国立大学
 
 cada
@@ -1721,21 +1883,9 @@ wǒ měi tiān zǎo shang 5 diǎn qǐ chuáng
 Yo cada día me duermo a las 11 de la noche
 wǒ měi tiān wǎn shang 11 shuì jiào Shíyī   ---> Verificar
 
-tarea
-zuò yè
-作业
-
 Hacer la tarea
-zuò zuò yè
+zuò zuo yè
 做作业
-
-levantarse
-qǐ chuáng
-起床
-
-dormir
-shuì jiào
-睡觉
 
 Yo me duermo todos los días a las 8pm
 /Yo todos los días por la noche a las 8pm me duermo/
@@ -1758,6 +1908,7 @@ v(falta verificar)
 Todas las noches yo duermo desde las 10pm hasta las 6am
 /yo todos los días por la noche duermo desde las 10 hasta las 6 de la mañana/
 wǒ měi tiān wǎn shang shuì jiào cóng 10 dào 6 zǎo shang
+我每天晚上睡觉从 10 到 6 早上
 
 Casa ---> Sin verificar
 fàng zi
@@ -1787,34 +1938,9 @@ Wǒ zài zhōngguó xuéxí hànyǔ
 Hablar
 shǔo
 
-
 YO hablo chino
 wǒ shuō hàn yǔ
 我说汉语
-
-Idioma inglés
-yīng yǔ
-英语
-
-Idioma francés
-fǎ yǔ
-法语
-
-Idioma chino
-hàn yǔ
-汉语
-
-España
-xī bān yán
-西班牙
-
-Idioma español
-xī bān yá yǔ
-西班牙语
-
-Idioma Alemán
-dé yǔ
-德语
 
 Tu hablas inglés?
 nǐ shuō yīng yǔ ma?
@@ -1866,7 +1992,7 @@ desayuno
 néng
 能
 
-3) Invitar/ Gtraductor: por favor
+3) Invitar/por favor
 Qǐng
 请
 
@@ -1886,10 +2012,14 @@ nán
 wǒ yīng gāi Fǎngwèn péng you de māma
 我  应该  访问 朋友 的妈妈
 
-2) Yo puedo escribir carácteres chinos
+2) Yo puedo escribir carácteres chinos  --> Está mal, la corrección, más abajo
 /yo puedo escribir chinos carácteres/
 wǒ néng xiě hán yǔ xìn
 我能写信汉语
+* Corrección:
+wǒ néng xiě hàn zì
+我能写汉字
+
 
 3)Yo te invito
 wǒ qǐng nǐ
@@ -1915,6 +2045,55 @@ Nosotros comemos a las 12:10
 wǒ men shí èr diǎn shí fēn chī fàn
 我们十二点十分吃饭
 
-1064
+
+************************************************************************************************************
+25092019
+
+Primer ejercicio:
+
+1)yo amo a mi mamá
+wǒ aì wǒ de mā mā
+2)El ama comer comida china
+tā aì chī zhōng guó cài
+3)Tú eres colombiano?
+nǐ shì gē lún bǐ yǎ rén ma?
+4) Yo hablo español, inglés y chino
+wǒ shuō xī bān yá yǔ, yīng yǔ hé hàn yǔ
+5) Mi mamá es Colombiana, Mi papá es chino
+wǒ de māmā shì gē lún bǐ yǎ rén, wǒ de bàba shì zhōng guó rén
 
 
+Segundo ejercicio:
+
+nǐ de māmā jiào shén me?
+你的妈妈叫什么
+
+nǐ de gē gē shì nǎ guó rén?
+你的哥哥是哪国人?
+
+zhōng guó cān tīng zái nǎ?
+中国餐厅在哪?
+
+nǐ hé wǒ shì péng you
+你和我是朋友
+
+wǒ bú chī zhōng guó cài
+我不吃中国菜
+
+Tercer ejercicio:
+
+querer
+
+cada día --> Comprobar
+měi tiān
+每天
+cada semana
+cada mes
+cada año 
+
+
+
+ocupado una oracion
+
+1117
+1260
