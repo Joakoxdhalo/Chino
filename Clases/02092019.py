@@ -5,12 +5,12 @@ diferencia entre shì y zài --> Ambos se refieren al verbo ser/estar
 
 class palabras memes():
     Idea
+    Xiǎng fǎ
     想法
 
     Tengo una idea atrevida
-    Wǒ yǒu gè dàdǎn de xiǎngfǎ
+    Wǒ yǒu gè dà dǎn de xiǎng fǎ
     我有个大胆的想法
-
 
 class pinying igual pero símbolo diferente():
 	araña
@@ -59,6 +59,14 @@ class países():
 	中国
 
 class sustantivos():
+    Celular
+    Shǒu jī
+    手机
+
+    Mano
+    shǒu
+    手
+
     película
     diàn yǐng
     电影
@@ -110,8 +118,7 @@ class formalidades():
 
 	Lo siento
 	duì bù qǐ
-	对不起 ---> Como aparece en el traductor
-	对比起 ---> Como lo anoté en clase
+	对不起 ---> Lo había escrito mal: 'dui bi qi' 对比起
 
 class pronombres():
 	yo
@@ -200,6 +207,7 @@ class la hora():
 	Qué hora es?
 	jǐ diǎn
 	几点
+
 	/ahora qué hora es?/
 	xiàn zài shì jǐ diǎn?
 	现在是几点
@@ -228,26 +236,28 @@ class la hora():
 	chà
 	差
 
-	1:45
-	/la una y cuarenta y cinco/
+	la una y cuarenta y cinco
 	yī diǎn sì shí wǔ fēn
 	一点四十五分
-	/la una y tres cuartos/
+
+	la una y tres cuartos
 	yī diǎn sān kè
 	一点三刻
-	/falta un cuarto para las 2/
+
+	falta un cuarto para las 2
 	liǎng diǎn chà yī kè
 	两点差一刻
 
 	las ocho y media
 	8 diǎn bàn
 	8 点 半
-	ó se puede:
-	8 点 30 fēn
+
+	Las ocho y 30 minutos
+    8 diǎn 30 fēn
+	8 点 30 分
 
 	las ocho y cuarto
 	8 diǎn yī kè
-	8 点 一刻
 	8 点 1 刻
 
 	Faltan cinco para las nueve
@@ -349,8 +359,7 @@ class verbos():
     zuò
     做
 
-    Invitar/por favor. En el traductor aparecía como [Yāoqǐng, (邀请)], y en varios ejemplos en la parte de abajo, también lo pongo como aparece en el traductor.
-    Aunque en otros también aparece sólo el "qǐng"
+    Invitar/por favor. En el traductor aparecía como [Yāoqǐng, (邀请)], y en varios ejemplos en la parte de abajo, también lo pongo como aparece en el traductor. Aunque en otros también aparece sólo el "qǐng"
 	qǐng
 	请
 
@@ -360,7 +369,7 @@ class verbos():
 
 	Hay (de tener)
 	yǒu
-	有 ----> Aparce diferente al prof, pero aparece igual que en la app para el verbo 'tener'
+	有
 
 	ver
 	kan
@@ -619,8 +628,7 @@ class números del 1 al 10():
     三
 
     Cuatro
-    sì
-    /'s'/
+    sì /'s'/
     四
 
     Cinco
@@ -648,8 +656,10 @@ class números del 1 al 10():
     十
 
 class palabras parecidas en escritura():
+    carne de res --> Una res flaca sin un cuerno
+    niú ròu
+    牛肉
 
-en la tarde, carne de res
     En la tarde
     xià wǔ
     下午
@@ -666,6 +676,7 @@ en la tarde, carne de res
     dà xué
     大学
 
+    Símbolos chinos
     hàn zì
     汉字
 
@@ -717,8 +728,7 @@ en la tarde, carne de res
 	é guó
 	俄国
 
-	** Con las siguientes 2 palabras compruebo que a pesar de tener el mismo pīnyīng, se escriben diferente
-	de nada
+	de nada ** Con las siguientes 2 palabras compruebo que a pesar de tener el mismo pīnyīng, se escriben diferente
 	bù kè qì
 	不客气
 
@@ -945,11 +955,8 @@ class familiares():
 
 class palabras importantes():
 	comer
-	chī
+	chī / En el video de la Youtuber aparece como: chī fàn 吃饭
 	吃
-	En el video de la Youtuber aparece como:
-	chī fàn
-	吃饭
 
 	comida
 	cài
@@ -1509,35 +1516,6 @@ zài jiàn
 2******************************************************************************************
 11092019
 
-Celular
-Shǒu jī
-手机
-
-Mano --> verificar
-shǒu
-手
-
-
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Semana
-Domingo
-anteayer
-
-
-
-    izquierda
-    zuǒ
-    左
-
-    Adelante
-    qián
-    钱
-
-    Atrás
-    hòu
-    后
-
-
 class comidas():
 	__init__():
 		return "Los verbos de estos sustantivos se sacan poniéndo el verbo cài antepuesto"
@@ -1587,6 +1565,10 @@ class temporalidades_2():
     yuè
     月
 
+    semana
+    xīng qí
+    星期
+
     Año nuevo
     xīn de yī nián
     新的一年
@@ -1631,6 +1613,17 @@ class direcciones():
     yòu
     右
 
+    izquierda
+    zuǒ
+    左
+
+    Adelante
+    qián
+    钱
+
+    Atrás
+    hòu
+    后
 
 querer-- > cuando hablamos de comida/ Extrañar/ echar de menos
 xiǎng
@@ -1917,7 +1910,7 @@ fàng zi
 yo tengo clase de chino a las 5pm 
 wo 
 
-El lunes y el Miércoles a las 5 de la tarde tengo clase de chino
+El lunes y el Miércoles a las 5 de la tarde no tengo clase de chino
 xīng qī yī hé xīng qī sān wǒ méi yōu hàn yū kè
 星期一  和  星期三  我没有汉语课
 
