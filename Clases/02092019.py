@@ -503,6 +503,12 @@ class Pronunciación del Chino mandarín vocales(a, o, e, i, u, ü):
     def __init__():
         return "siempre se cumple que las tíldes cumplen el orden descrito arriba"
 
+    def acento en vocales():
+        El orden en la que los acentos se colocan es el siguiente:
+        a, o, e, i, u, ü
+
+        Con excepción de 'iu', en donde se coloca el tono sobre la 'u' y no la 'i'
+
     def tonos():
         Primer tono: Sacada de lengua
         Segundo tono: Como si fuera pregunta
