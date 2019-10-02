@@ -3,6 +3,16 @@ verbos
 diferencia entre shì y zài --> Ambos se refieren al verbo ser/estar
 是 在
 
+Preguntas: Son estas relaciones ciertas?
+：肢 limb
+http://www.thefreedictionary.com/limb
+
+：脚 leg
+http://www.thefreedictionary.com/leg
+
+：足 foot
+http://www.thefreedictionary.com/foot
+
 class palabras memes():
     Idea
     Xiǎng fǎ
@@ -76,7 +86,7 @@ class sustantivos():
     电视
 
     tarea
-    zuo yè
+    zuò yè
     作业
 
     agua
@@ -314,11 +324,15 @@ class adjetivos():
     nán
     难
 
-    sencillo/Simple/fácil
+    sencillo/Simple/fácil ---> Suena como si alguien diera algo, (osea fácil)
     Jiǎn dān
     简单
 
 class verbos():
+    debería/deber
+    yīng gāi
+    应该
+
     desayunar
     chī zǎo cān
     吃早餐
@@ -411,11 +425,11 @@ class verbos():
 	qù
 	去
 
-    levantarse
+    levantarse/despertar
     qǐ chuáng
     起床
 
-    dormir
+    dormir/acostarse
     shuì jiào
     睡觉
 
@@ -655,6 +669,10 @@ class números del 1 al 10():
     shí
     十
 
+    Mil
+    qiān
+    千
+
 class palabras parecidas en escritura():
     carne de res --> Una res flaca sin un cuerno
     niú ròu
@@ -679,6 +697,10 @@ class palabras parecidas en escritura():
     Símbolos chinos
     hàn zì
     汉字
+
+    Estudiar
+    xuéxí
+    学习
 
     Viajar
     lǚ you
@@ -996,7 +1018,7 @@ class partículas():
     哪
 
     Partícula "qué"
-    shen me
+    shén me
     什么
 
     Partícula "muy": antes del verbo o adjetivo
@@ -1061,9 +1083,17 @@ class partes del cuerpo():
     xī gài
     膝盖
 
-    pie
+    pie ---> Al parecer esta es en realidad pierna
     jiǎo
     脚
+
+    pie
+    zú
+    足
+
+    Miembro
+    zhī
+    肢
 
     ojos
     yǎn jīng
@@ -1321,7 +1351,7 @@ nǐ shì zhōng guó rén ma?
 **************************************************
 
 Dónde está el restaurante chino?
-Zhung wǒ can guan zai nali
+Zhōng guó cān tīng zài nǎ
 /China restaurante donde/
 中国 餐厅 在哪？
 
@@ -1393,16 +1423,16 @@ guo li dà xué
 国立大学
 
 Preposición 'en'
-zai
+zài
 在
 
 Yo estudio en la nacho
 \Yo en la nacho estudio chino\
-wǒ zai guo li da xue
+wǒ zài guo li da xue
 我在国立大学
 
 Yo estudio francés en francia
-wǒ zai fa guo xuexi francés
+wǒ zài fa guo xuexi francés
 我在法国学
 
 *** Yo estudio portugués en brasil  -----> INCOMPLETO
@@ -1857,7 +1887,7 @@ wǒ sai de guo shueshi
 
 Yo estudio chino en la nacho
 wǒ hai niu xuexi guo li da xue
-wo zai ge lun bi ya guo li da xue ...
+wo zài ge lun bi ya guo li da xue ...
 我在哥伦比亚国立大学。。。
 
     Universidad Nacional
@@ -1973,7 +2003,7 @@ Fǎngwèn
 访问
 
 
-1) verbo debería
+1) verbo debería/deber
 yīng gāi
 应该
 
@@ -2064,7 +2094,7 @@ nǐ de māmā jiào shén me?
 nǐ de gē gē shì nǎ guó rén?
 你的哥哥是哪国人?
 
-zhōng guó cān tīng zái nǎ?
+zhōng guó cān tīng zài nǎ?
 中国餐厅在哪?
 
 nǐ hé wǒ shì péng you
