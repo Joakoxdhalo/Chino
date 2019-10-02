@@ -509,6 +509,43 @@ class Pronunciación del Chino mandarín vocales(a, o, e, i, u, ü):
 
         Con excepción de 'iu', en donde se coloca el tono sobre la 'u' y no la 'i'
 
+        Me gusta tomar avión
+        wǒ xǐ huān zuò feī jī
+        我喜欢坐飞机
+
+        patas
+        tuǐ
+        腿
+
+        boca
+        zuǐ
+        嘴
+
+
+        vino
+        jiǔ
+        酒
+
+        tienda
+        shāng dìan
+        商店
+
+        Baloncesto
+        lán qiú
+        篮球
+
+        agua
+        shuǐ
+        水
+
+        Lo siento
+        duì bù qǐ
+        对不起 ---> Lo había escrito mal: 'dui bi qi' 对比起
+
+        carne de res --> Una res flaca sin un cuerno
+        niú ròu
+        牛肉
+
     def tonos():
         Primer tono: Sacada de lengua
         Segundo tono: Como si fuera pregunta
@@ -586,7 +623,7 @@ class pronunciación del chino mandarín consonantes():
 
 class palabras difíciles o complejas():
     amar
-    aì
+    ài
     爱
 
     restaurante
@@ -905,7 +942,7 @@ class palabras parecidas en escritura():
 	朋友
 
     amar
-    aì
+    ài
     爱
 
     difícil
@@ -1065,7 +1102,7 @@ class medios de transporte():
     开车
 
 	Estación de metro
-	ditie zhan
+	dì tiě zhan
 	地铁站
 
 	Estación de bus
@@ -1236,7 +1273,7 @@ nǐ de shū
 
 Yo te amo también
 /Yo también amo a tí/
-wǒ yě aì nǐ
+wǒ yě ài nǐ
 我也爱你
 
 Colombiano
@@ -1390,7 +1427,7 @@ Wǒ xiǎng zhù zhōng guó
 我想住中国
 
 Me gusta ver la película en chino
-wǒ xihuan kan dian ying
+wǒ xǐhuān kàn diàn yǐng
 我喜欢看电影
 
 Jugar baloncesto
@@ -1398,26 +1435,27 @@ da lán qiú
 打蓝球
 
 jugar Voleibol
-da pai qiú
+dǎ pái qiú
 打排球
 
 Jugar tenis
-da wang qiú
+dǎ wang qiú
 打网球
 
 Jugar ping pong
-da ping pong qiu
+dǎ ping pong qiú
 打乒乓球
 
 Jugar fútbol
-ti zu qiu
+ti zu qiú
 踢足球
 
 Te gusta jugar ping pong?
-ni xing uan ping pong? (INCOMpleta)
+nǐ xǐ huān pīng pāng
+你喜欢乒乓
 
 Yo soy profesor
-wǒ shi laoshi
+wǒ shì lǎoshī
 我是老师
 
 Universidad del rosario
@@ -2081,9 +2119,9 @@ wǒ men shí èr diǎn shí fēn chī fàn
 Primer ejercicio:
 
 1)yo amo a mi mamá
-wǒ aì wǒ de mā mā
+wǒ ài wǒ de mā mā
 2)El ama comer comida china
-tā aì chī zhōng guó cài
+tā ài chī zhōng guó cài
 3)Tú eres colombiano?
 nǐ shì gē lún bǐ yǎ rén ma?
 4) Yo hablo español, inglés y chino
