@@ -15,5 +15,5 @@ nǐ hé wǒ shì péng yǒu
 你和我是朋友
 
 5) Los colombianos no comen comida china
-gē lún bǐ yǎ rén bù chī gǒu ròu
+gē lún bǐ yà rén bù chī gǒu ròu
 哥伦比亚人不吃狗肉
